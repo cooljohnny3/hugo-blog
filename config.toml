@@ -1,0 +1,4 @@
+baseURL = 'https://blog.johnbrehm.dev/'
+languageCode = 'en-us'
+title = "John's Blog"
+theme = 'ananke'
